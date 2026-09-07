@@ -1,0 +1,7 @@
+{
+  "name": "Personal Finance Tracker",
+  "description": "Aplikasi pencatatan keuangan pribadi minimalis berfokus pada arus kas harian, manajemen pos rekening (wallets), dan deteksi pengeluaran berulang (bocor halus).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
